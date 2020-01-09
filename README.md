@@ -33,7 +33,8 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
+* [Usage examples](#usage-examples)
+* [Dataset](#dataset)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -60,8 +61,8 @@ It is opened for contributions. :-)
 ### Built With
 * [Tensorflow](https://www.tensorflow.org/)
 * [OpenCV](https://opencv.org/)
-* [Android] ()
-* [Volley] ()
+* [Android](https://developer.android.com/guide)
+* [Volley](https://developer.android.com/training/volley)
 
 
 
@@ -72,36 +73,29 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-To run this project you'll need **Python 3.5 or later** and all dependencies listed in the **requirements.txt**. 
-
-To install all dependencies listend in the requirements file:
-
-```sh
- pip install -r requirements.txt 
-```
+To run this project you'll need the newer version of the Android Studio and Java SDK installed.
+The whole installation guide for your OS can be found here: https://developer.android.com/studio/install
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/lucko515/search-book-by-cover-server.git
+git clone https://github.com/lucko515/search-book-by-cover-android-app.git
 ```
-2. Create the **dataset** folder in the dataset_builder_module folder
-```sh
-mkdir dataset_builder_module/dataset
-```
-3. Download the books covers dataset from the Kaggle and unpack the dataset into the **dataset** folder
+2. Open the project with your Android Studio
 
-Link to the dataset: https://www.kaggle.com/lukaanicin/book-covers-dataset
+3. If you are running this project on the localhost, change IP in the resource file to your local IP.
 
-4. Run the script **dataset_features_generator.py**
-```sh
-python(3) dataset_features_generator.py
-```
-5. Start the Flaks server with the **server.py**
+TODO:Add SS here
+
+4. Start the Flaks server with the **server.py**
 ```sh
 python(3) server.py
 ```
+NOTE: The server side is in the other repository: https://github.com/lucko515/search-book-by-cover-server
+
+5. Build the application on your mobile device **NOT emulator**
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage examples
@@ -110,7 +104,10 @@ python(3) server.py
    <img src="readme_mats/book_search_examples.jpg" alt="Example Image" width="550" height="900">
 </p>
   
+<!-- DATASET -->
+## Dataset :
 
+Link to the dataset: https://www.kaggle.com/lukaanicin/book-covers-dataset
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -139,7 +136,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Luka Anicin - [@luka_anicin_fn](https://twitter.com/luka_anicin_fn) - luka.anicin@gmail.com
 
-Project Link: [https://github.com/lucko515/search-book-by-cover-server](https://github.com/lucko515/search-book-by-cover-android-app)
+Server of the project repo: [https://github.com/lucko515/search-book-by-cover-server](https://github.com/lucko515/search-book-by-cover-server)
+
+Android application front-end repo: [https://github.com/lucko515/search-book-by-cover-android-app](https://github.com/lucko515/search-book-by-cover-android-app)
 
 
 
