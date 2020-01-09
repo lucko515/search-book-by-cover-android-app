@@ -105,7 +105,7 @@ NOTE: The server side is in the other repository: https://github.com/lucko515/se
 </p>
   
 <!-- DATASET -->
-## Dataset :
+## Dataset
 
 Link to the dataset: https://www.kaggle.com/lukaanicin/book-covers-dataset
 
