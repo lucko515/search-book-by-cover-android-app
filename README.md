@@ -104,7 +104,7 @@ NOTE: The server side is in the other repository: https://github.com/lucko515/se
 ## Usage examples
 
 <p align="center"> 
-   <img src="readme_images/book_search_examples.jpg" alt="Example Image" width="550" height="900">
+   <img src="readme_images/book_search_examples.jpg" alt="Example Image" width="900" height="550">
 </p>
   
 <!-- DATASET -->
