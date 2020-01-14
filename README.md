@@ -88,7 +88,7 @@ git clone https://github.com/lucko515/search-book-by-cover-android-app.git
 
 
 <p align="center"> 
-   <img src="readme_images/where_to_change_server_ip.png" alt="Example Image" width="550" height="900">
+   <img src="readme_images/where_to_change_server_ip.png" alt="Example Image" width="1200" height="550">
 </p>
 
 4. Start the Flaks server with the **server.py**
@@ -104,7 +104,7 @@ NOTE: The server side is in the other repository: https://github.com/lucko515/se
 ## Usage examples
 
 <p align="center"> 
-   <img src="readme_images/book_search_examples.jpg" alt="Example Image" width="900" height="550">
+   <img src="readme_images/book_search_examples.jpg" alt="Example Image" width="550" height="900">
 </p>
   
 <!-- DATASET -->
