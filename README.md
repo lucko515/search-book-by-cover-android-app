@@ -145,6 +145,7 @@ Android application front-end repo: [https://github.com/lucko515/search-book-by-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Img Shields](https://shields.io)
+* [Android Opencv Camera Scanner](https://github.com/aashari/android-opencv-camera-scanner)
 * [DEep Local Features (DELF) paper](https://arxiv.org/pdf/1612.06321.pdf)
 * [DELF Reference implementation](https://www.dlology.com/blog/easy-landmark-image-recognition-with-tensorflow-hub-delf-module/)
 * [Readme Templates](https://github.com/othneildrew)
