@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lucko515/search-book-by-cover-server">
-    <img src="readme_mats/Icon.png" alt="Logo" width="200" height="200">
+    <img src="readme_images/Icon.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Book Search Engine (Android App front-end)</h3>
@@ -46,7 +46,7 @@
 ## About The Project
 
 <p align="center">
-<img src="readme_mats/project_demo.gif"></img>
+<img src="readme_images/project_demo.gif"></img>
 </p>
 
 There are many ways to search for a book that you are interested in -  searching it by name, author, ISBN, and any other relevant features. That is all great, but the process is becoming very long as we introduce more and more features in the search system. And what if we want to find the cheapest place to buy the book? We would need to go to multiple websites and type the same query all over again! 
@@ -101,7 +101,7 @@ NOTE: The server side is in the other repository: https://github.com/lucko515/se
 ## Usage examples
 
 <p align="center"> 
-   <img src="readme_mats/book_search_examples.jpg" alt="Example Image" width="550" height="900">
+   <img src="readme_images/book_search_examples.jpg" alt="Example Image" width="550" height="900">
 </p>
   
 <!-- DATASET -->
