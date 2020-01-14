@@ -86,7 +86,10 @@ git clone https://github.com/lucko515/search-book-by-cover-android-app.git
 
 3. If you are running this project on the localhost, change IP in the resource file to your local IP.
 
-TODO:Add SS here
+
+<p align="center"> 
+   <img src="readme_images/where_to_change_server_ip.png" alt="Example Image" width="550" height="900">
+</p>
 
 4. Start the Flaks server with the **server.py**
 ```sh
